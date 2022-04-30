@@ -9,11 +9,11 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 However, I'm also intensively exploring such topics like (among other things): \
-🔹 Apache Kafka \
-🔹 Apache Solr \
-🔹 gRPC \
-🔹 Spring Cloud \
-🔹 Angular 2+
+✅ Apache Kafka \
+✅ Apache Solr \
+✅ gRPC \
+✅ Spring Cloud \
+✅ Angular 2+
 
 </br>
 
