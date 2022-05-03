@@ -23,10 +23,10 @@ However, I'm also intensively exploring such topics like (among other things): \
 <img src="https://avatars.githubusercontent.com/u/17034856?s=200&amp;v=4" width="100" height="100" alt="@AgID"><h2><a href="https://github.com/AgID">AGID - Agenzia per l'Italia Digitale</a></h2>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gcalsolaro&repo=integration_INAD_with_ANPR-AppIO)](https://github.com/gcalsolaro/integration_INAD_with_ANPR-AppIO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agid&repo=integration_INAD_with_ANPR-AppIO)](https://github.com/agid/integration_INAD_with_ANPR-AppIO)
 &nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gcalsolaro&repo=INAD_API_Extraction
-)](https://github.com/gcalsolaro/INAD_API_Extraction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agid&repo=INAD_API_Extraction
+)](https://github.com/agid/INAD_API_Extraction)
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=gcalsolaro/INAD_API_Extraction)
 
