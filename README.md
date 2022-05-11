@@ -35,7 +35,7 @@ However, I'm also intensively exploring such topics like (among other things): \
 ## My GitHub Stats
 
 <a href="https://github.com/gcalsolaro">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=gcalsolaro&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true" alt="My github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=gcalsolaro&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues"" alt="My github stats"/>
 </a>
 
 <!--
