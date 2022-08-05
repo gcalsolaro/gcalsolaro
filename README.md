@@ -1,4 +1,4 @@
-# Hi there 👋 My name's Giuseppe Calsolaro
+# Hi there 👋 My name's Giuseppe
 
 🔹 Java Developer 🔹 Software Architect 🔹 Software Analyst 🔹 Spring Framework enthusiast
 
